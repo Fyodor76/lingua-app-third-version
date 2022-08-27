@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/lingua-app/static/css/main.bf7a6fa5.css",
+    "main.js": "/lingua-app/static/js/main.ee398d96.js",
+    "static/media/Linkin_Park_-_What_Ive_Done_47894351.mp3": "/lingua-app/static/media/Linkin_Park_-_What_Ive_Done_47894351.df7a28a18a29e24c1184.mp3",
+    "static/media/Linkin_Park_-_Numb_47828673 (1).mp3": "/lingua-app/static/media/Linkin_Park_-_Numb_47828673 (1).68fbf7bcc275eb796883.mp3",
+    "static/media/linkinPark.mp3": "/lingua-app/static/media/linkinPark.68fbf7bcc275eb796883.mp3",
+    "static/media/Linkin_Park_-_Faint_47828666.mp3": "/lingua-app/static/media/Linkin_Park_-_Faint_47828666.fad8c90980940c3ca303.mp3",
+    "static/media/russianFlag.jpg": "/lingua-app/static/media/russianFlag.576e075d3b947789c016.jpg",
+    "static/media/premiumDescription.jpg": "/lingua-app/static/media/premiumDescription.ea377e8aba7fd8d22af9.jpg",
+    "static/media/sound.png": "/lingua-app/static/media/sound.bb213bf327f82387f40d.png",
+    "static/media/titlePagePicture.png": "/lingua-app/static/media/titlePagePicture.2447190967b7e6f26086.png",
+    "static/media/readingPartTitle.jpg": "/lingua-app/static/media/readingPartTitle.b37af1885ba9f8cf2d52.jpg",
+    "static/media/clo.png": "/lingua-app/static/media/clo.b35010351ea1d25529c3.png",
+    "static/media/screenForTitlePage.jpg": "/lingua-app/static/media/screenForTitlePage.4576593c236c71a395f2.jpg",
+    "static/media/germanListeningPhotoGirl.jpg": "/lingua-app/static/media/germanListeningPhotoGirl.84f909cbbdd1f1b65070.jpg",
+    "static/media/english-dictation-title.jpg": "/lingua-app/static/media/english-dictation-title.3d845f4647f8c45de7d7.jpg",
+    "static/media/screenForTitlePageTwo.jpg": "/lingua-app/static/media/screenForTitlePageTwo.18e5d4c85cf5b4d72de0.jpg",
+    "static/media/dictationTitlePageImage.jpg": "/lingua-app/static/media/dictationTitlePageImage.1b5e37d67bf607657779.jpg",
+    "static/media/logo.gif": "/lingua-app/static/media/logo.998eae38c76c7688fdd4.gif",
+    "static/media/pause.png": "/lingua-app/static/media/pause.e247a69229391567c67c.png",
+    "static/media/playerStart.webp": "/lingua-app/static/media/playerStart.6c6ac9b13e30146ee41d.webp",
+    "static/media/EnglishFlag.svg": "/lingua-app/static/media/EnglishFlag.399ae1bb3bb56d6d5b1879a703caea48.svg",
+    "index.html": "/lingua-app/index.html",
+    "static/media/GermanFlag.svg": "/lingua-app/static/media/GermanFlag.feb458745d2175932ba769f1e7eeaff8.svg",
+    "main.bf7a6fa5.css.map": "/lingua-app/static/css/main.bf7a6fa5.css.map",
+    "main.ee398d96.js.map": "/lingua-app/static/js/main.ee398d96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf7a6fa5.css",
+    "static/js/main.ee398d96.js"
+  ]
+}

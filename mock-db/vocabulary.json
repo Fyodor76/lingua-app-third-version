@@ -1,0 +1,92 @@
+{
+    "vocabulary": [
+        {
+            "word": "klein",
+            "answers": ["small", "kind", "groomy", "fedya"],
+            "answer": "small",
+            "info": "adjective"
+        },
+        {
+            "word": "schwer",
+            "answers": ["dirty", "heavy", "small", "bad", "fedya"],
+            "answer": "heavy",
+            "info": "adjective"
+        },
+        {
+            "word": "die Eltern",
+            "answers": ["fedya", "bed", "husband", "music", "parents"],
+            "answer": "parents",
+            "info": "noun"
+        },
+        {
+            "word": "das Bett",
+            "answers": ["tea", "bed", "wife", "fedya", "tree"],
+            "answer": "bed",
+            "info": "noun"
+        },
+        {
+            "word": "müde",
+            "answers": ["heavy", "tired", "fedya", "bad", "happy"],
+            "answer": "tired",
+            "info": "adjective"
+        },
+        {
+            "word": "rot",
+            "answers": ["red", "fedya", "green", "love", "pain"],
+            "answer": "red",
+            "info": "adjective"
+        },
+        {
+            "word": "schwer",
+            "answers": ["difficult", "easy", "hot", "cold", "bad"],
+            "answer": "schwer",
+            "info": "adjective"
+        }
+    ],
+    "german": ["ä", "ö", "ü", "ß", "Ä", "Ö", "Ü" ],
+    "vocabularyEng": [
+        {
+            "word": "маленький",
+            "answers": ["small", "kind", "groomy", "fedya"],
+            "answer": "small",
+            "info": "adjective"
+        },
+        {
+            "word": "тяжелый",
+            "answers": ["dirty", "heavy", "small", "bad", "fedya"],
+            "answer": "heavy",
+            "info": "adjective"
+        },
+        {
+            "word": "родители",
+            "answers": ["fedya", "bed", "husband", "music", "parents"],
+            "answer": "parents",
+            "info": "noun"
+        },
+        {
+            "word": "кровать",
+            "answers": ["tea", "bed", "wife", "fedya", "tree"],
+            "answer": "bed",
+            "info": "noun"
+        },
+        {
+            "word": "уставший",
+            "answers": ["heavy", "tired", "fedya", "bad", "happy"],
+            "answer": "tired",
+            "info": "adjective"
+        },
+        {
+            "word": "красный",
+            "answers": ["red", "fedya", "green", "love", "pain"],
+            "answer": "red",
+            "info": "adjective"
+        },
+        {
+            "word": "тяжелый",
+            "answers": ["difficult", "easy", "hot", "cold", "bad"],
+            "answer": "schwer",
+            "info": "adjective"
+        }
+    ]
+}
+
